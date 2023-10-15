@@ -1,0 +1,50 @@
+{
+  // General Settings
+  "layer": "top",
+  "margin-top": 14,
+  "margin-bottom": 0,
+  "height": 16,
+  "margin-left": 0,
+  "margin-right": 0,
+  "spacing": 0,
+
+  // Load Module
+  "include": ["~/.config/waybar/modules.json"],
+
+    // Modules Left
+    "modules-left": [
+        "custom/appmenu",
+        "wlr/taskbar",
+        "group/quicklinks",
+        "hyprland/window"
+    ],
+
+    // Modules Center
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+
+
+  // Modules Right
+  "modules-right": [
+    "pulseaudio",
+    "battery",
+    "group/hardware",
+    "network",
+    "custom/exit",
+    "clock"
+  ],
+
+  // Group Quicklinks
+  "group/quicklinks": {
+    "orientation": "horizontal",
+    "modules": ["custom/filemanager"] 
+  },
+
+  // Group Hardware
+  "group/hardware": {
+    "orientation": "horizontal",
+    "modules": ["disk", "cpu", "memory"]
+  }
+}
+
