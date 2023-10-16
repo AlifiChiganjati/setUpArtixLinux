@@ -1,0 +1,20 @@
+* {{
+    background: rgba(0,0,1,0.5);
+    foreground: #FFFFFF;
+    color0:     #000001;
+    color1:     #525249;
+    color2:     #9C6840;
+    color3:     #EBC346;
+    color4:     #137786;
+    color5:     #0f97A6;
+    color6:     #4CB2BF;
+    color7:     #bfbfbf;
+    color8:     #3f3f40;
+    color9:     #525249;
+    color10:     #9c6840;
+    color11:     #EBC346;
+    color12:     #137788;
+    color13:     #0f9746;
+    color14:     #4cb2bf;
+    color15:     #bfbfbf;
+}}
