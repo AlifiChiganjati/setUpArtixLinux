@@ -18,9 +18,9 @@ require("lazy").setup({
     { import = "plugins" },
 
     --prettier
-    { "LazyVim/LazyVim", import = "lazyvim.plugins" },
-    { import = "lazyvim.plugins.extras.formatting.prettier" },
-    { import = "plugins" },
+    -- { "LazyVim/LazyVim", import = "lazyvim.plugins" },
+    -- { import = "lazyvim.plugins.extras.formatting.prettier" },
+    -- { import = "plugins" },
 
     --none-ls
     { "LazyVim/LazyVim", import = "lazyvim.plugins" },
@@ -54,9 +54,9 @@ require("lazy").setup({
         -- disable some rtp plugins
         disabled_plugins = {
           "gzip",
-          -- "matchit",
-          -- "matchparen",
-          -- "netrwPlugin",
+          "matchit",
+          "matchparen",
+          "netrwPlugin",
           "tarPlugin",
           "tohtml",
           "tutor",
