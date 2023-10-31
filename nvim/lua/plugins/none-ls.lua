@@ -13,7 +13,6 @@ return {
         nls.builtins.formatting.shfmt,
         nls.builtins.diagnostics.fish,
         nls.builtins.diagnostics.flake8,
-        -- nls.builtins.diagnostics.eslint_d,
       },
     }
   end,
