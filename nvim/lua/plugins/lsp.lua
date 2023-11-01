@@ -2,7 +2,6 @@ return {
   {
     "neovim/nvim-lspconfig",
     event = "LazyFile",
-    dependencies = {},
     ---@class PluginLspOpts
     opts = {
       format = {
