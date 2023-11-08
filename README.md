@@ -1,5 +1,5 @@
 # setupArtixLinux
-DE : bspwm and hrpland
+WE : bspwm and hrpland
 
 # First do it
 - add repo arch see in documentations artix linux
