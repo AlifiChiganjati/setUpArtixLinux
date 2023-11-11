@@ -7,6 +7,7 @@ if status is-interactive
     set --export BUN_INSTALL "$HOME/.bun"
     set --export PATH $BUN_INSTALL/bin $PATH
     alias graph="git log --all --decorate --oneline --graph"
+    cmatrix
+    neofetch
 end
-cmatrix
-neofetch
+
