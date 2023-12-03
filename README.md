@@ -8,4 +8,4 @@ WE : bspwm and hrpland
 
 
 ### REQUIRE
-yay -S  hyprland xdg-desktop-portal-wlr waybar xclip xautolock betterlockscreen brightnessctl grim slurp swayidle swappy cliphist swww python-pywal swaylock-effects wlogout cmatrix-git exa ranger dunst nitrogen-git bspwm sxhkd neovim rofi wofi polybar kitty firefox fish neofetch htop dunst brightnessctl wl-clipboard file-roller hyprpaper less wlroots vlc udiskie libreoffice
+yay -S  hyprland xdg-desktop-portal-wlr waybar xclip xautolock scrot betterlockscreen brightnessctl grim slurp swayidle swappy cliphist swww python-pywal swaylock-effects wlogout cmatrix-git exa ranger dunst nitrogen-git bspwm sxhkd neovim rofi wofi polybar kitty firefox fish neofetch htop dunst brightnessctl wl-clipboard file-roller hyprpaper less wlroots vlc udiskie libreoffice
