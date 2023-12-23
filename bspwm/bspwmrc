@@ -25,5 +25,5 @@ picom --config ~/.config/picom/picom.conf &
 nitrogen --restore &
 dunst &
 polybar &
-xautolock -time 5 -locker "betterlockscreen -l" -killtime 10 -killer "loginctl suspend" -detectsleep &
+xautolock -time 5 -locker "betterlockscreen -l" -killtime 10 -detectsleep &
 
